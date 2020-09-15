@@ -1,6 +1,6 @@
-在当前目录 python ./run.py
+## 在当前目录 python ./run.py
 
-可以在openwrt 设置定时任务   
+### 可以在openwrt 设置定时任务   
 
 
 例子：0 6 * * * reboot
@@ -25,7 +25,7 @@
 
 
 
-#### */5 * * * * cd /mnt/mmcblk1p3/ddns && python ./run.py
+### */5 * * * * cd /mnt/mmcblk1p3/ddns && python ./run.py
 
 
 
